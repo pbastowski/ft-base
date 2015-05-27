@@ -12,17 +12,15 @@ Package.describe({
 
 Package.onUse(function(api) {
   api.versionsFrom('1.1.0.2');
-  api.use('urigo:angular');
-  api.use('urigo:angular-ui-router');
-  api.use('angularui:angular-ui-bootstrap');
-  api.use('twbs:bootstrap');
-  api.use('fourseven:scss');
-  api.use('less');
-  api.use('mquandalle:jade');
-  api.use('civilframe:angular-jade');
-  api.use('pbastowski:angular2-now');
-  api.use('pbastowski:ft-require');
-  api.use('urigo:angular-ui-router');
+  api.use('urigo:angular-ui-router@0.7.0');
+  api.use('angularui:angular-ui-bootstrap@0.13.0');
+  api.use('twbs:bootstrap@3.3.4');
+  api.use('fourseven:scss@3.1.1');
+  api.use('less@1.0.14');
+  api.use('mquandalle:jade@0.4.3');
+  api.use('civilframe:angular-jade@0.0.3');
+  api.use('pbastowski:angular2-now@0.2.4');
+  api.use('pbastowski:require@0.0.1');
 
   api.addFiles('ft-base.js');
 });

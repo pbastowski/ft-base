@@ -11,7 +11,7 @@
 - mquandalle:jade
 - civilframe:angular-jade
 - pbastowski:angular2-now
-- pbastowski:ft-require
+- pbastowski:require
 - urigo:angular-ui-router
 
 ### To install
