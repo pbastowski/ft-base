@@ -12,7 +12,6 @@
 - civilframe:angular-jade
 - pbastowski:angular2-now
 - pbastowski:require
-- urigo:angular-ui-router
 
 ### To install
 
