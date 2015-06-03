@@ -15,7 +15,7 @@
 
 ### To install
 
-    meteor add pbastowski:require
+    meteor add pbastowski:ft-base
 
 ### Removing unwanted packages
 
