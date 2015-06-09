@@ -3,13 +3,14 @@
 ### Includes the following packages
 
 - urigo:angular
-- urigo:angular-ui-router
-- twbs:bootstrap
+- angularui:angular-ui-router
 - angularui:angular-ui-bootstrap
+- twbs:bootstrap
 - fourseven:scss
 - less
 - mquandalle:jade
 - civilframe:angular-jade
+- pbastowski:angular-babel
 - pbastowski:angular2-now
 - pbastowski:require
 
