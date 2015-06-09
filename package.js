@@ -12,15 +12,15 @@ Package.describe({
 
 Package.onUse(function(api) {
   api.versionsFrom('1.1.0.2');
-  api.imply('urigo:angular');
-  api.imply('angularui:angular-ui-router');
-  api.imply('angularui:angular-ui-bootstrap');
-  api.imply('twbs:bootstrap');
-  api.imply('fourseven:scss');
-  api.imply('less');
-  api.imply('mquandalle:jade');
-  api.imply('civilframe:angular-jade');
-  api.imply('pbastowski:angular-babel');
-  api.imply('pbastowski:angular2-now');
-  api.imply('pbastowski:require');
+  api.imply('urigo:angular@0.8.14');
+  api.imply('angularui:angular-ui-router@0.2.15');
+  api.imply('angularui:angular-ui-bootstrap@0.13.0');
+  api.imply('twbs:bootstrap@3.3.4');
+  api.imply('fourseven:scss@3.1.1');
+  api.imply('less@1.0.14');
+  api.imply('mquandalle:jade@0.4.3');
+  api.imply('civilframe:angular-jade@0.0.3');
+  api.imply('pbastowski:angular-babel@0.1.5');
+  api.imply('pbastowski:angular2-now@0.2.7');
+  api.imply('pbastowski:require@0.0.3');
 });
